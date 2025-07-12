@@ -4,7 +4,7 @@
   I'm <span style="color:#4CAF50;">Ayush Verma</span>
 </h1>
 <p align="center">
-  <strong>Java Developer | Cloud Enthusiast | Problem Solver</strong>
+  <strong>Software Developer | Cloud Enthusiast | Problem Solver</strong>
 </p>
 
 ---
