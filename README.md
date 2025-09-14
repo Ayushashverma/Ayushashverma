@@ -28,11 +28,11 @@
 ---
 
 <!-- PROJECTS -->
-<h3 align="center">🚀 Featured Project</h3>
+<h3 align="center">🚀 Featured Projects</h3>
 
 <table align="center">
   <tr>
-    <td width="50%" align="center" valign="top">
+    <td width="33%" align="center" valign="top">
       <h4>🩺 Medimind</h4>
       <img src="https://img.icons8.com/color/96/000000/medical-doctor.png" alt="medimind icon" />
       <p>
@@ -44,16 +44,36 @@
           <li>🎤 Voice input & response</li>
         </ul>
       </p>
+      <a href="https://github.com/Ayushashverma/Medimind" target="_blank">🔗 View Project</a>
     </td>
-    <td width="50%" align="center" valign="top">
-      <h4>🌐 AI Projects Portfolio</h4>
-      <img src="https://img.icons8.com/ios-filled/50/000000/ai.png" alt="ai icon" />
+    <td width="33%" align="center" valign="top">
+      <h4>🌱 EcoGuard AI</h4>
+      <img src="https://img.icons8.com/color/96/000000/earth-planet.png" alt="ecoguard icon" />
       <p>
-        - LLM-based Q&A Systems<br/>
-        - Transformer-based Text Summarization<br/>
-        - Predictive Analytics using Pandas & NumPy<br/>
-        - Visualization with Matplotlib & Seaborn
+        Environmental monitoring agent using <strong>Python, IoT, Pandas, Matplotlib, LangChain</strong>.<br/>
+        Features:
+        <ul style="list-style-type:none;">
+          <li>🌫️ Air & water quality monitoring</li>
+          <li>📊 Pollution prediction and visualization</li>
+          <li>📣 Autonomous alerts to authorities</li>
+        </ul>
       </p>
+      <a href="https://github.com/Ayushashverma/EcoGaurdAI" target="_blank">🔗 View Project</a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>⚖️ AutoLegal AI</h4>
+      <img src="https://img.icons8.com/color/96/000000/law.png" alt="autolegal icon" />
+      <p>
+        Autonomous legal contract assistant using <strong>Python, Transformers, LangChain, and Streamlit</strong>.<br/>
+        Features:
+        <ul style="list-style-type:none;">
+          <li>📄 Contract upload & parsing (PDF/DOCX)</li>
+          <li>📝 AI-powered summarization</li>
+          <li>⚠️ Risk detection & visualization</li>
+          <li>📧 Email alerts with reports</li>
+        </ul>
+      </p>
+      <a href="https://github.com/Ayushashverma/AutoLegalAI" target="_blank">🔗 View Project</a>
     </td>
   </tr>
 </table>
