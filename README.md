@@ -4,7 +4,7 @@
   I'm <span style="color:#4CAF50;">Ayush Verma</span>
 </h1>
 <p align="center">
-  <strong>Software Developer | Cloud Enthusiast | Problem Solver</strong>
+  <strong>Gen AI Engineer | Python Developer | AI/ML Enthusiast | Problem Solver</strong>
 </p>
 
 ---
@@ -12,37 +12,48 @@
 <!-- SKILLS -->
 <h3 align="center">🛠️ Skills & Tools</h3>
 <p align="center">
-  <img alt="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55" />
-  <img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" />
-  <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" />
-  <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" />
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" />
-  <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" />
-  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" />
+  <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" />
+  <img alt="Pandas" src="https://img.icons8.com/color/48/000000/pandas.png" height="55" />
+  <img alt="NumPy" src="https://img.icons8.com/color/48/000000/numpy.png" height="55" />
+  <img alt="Matplotlib" src="https://img.icons8.com/color/48/000000/matplotlib.png" height="55" />
+  <img alt="PyTorch" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="55" />
+  <img alt="TensorFlow" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="55" />
+  <img alt="Transformers" src="https://huggingface.co/front/assets/huggingface_logo.svg" height="55" />
+  <img alt="LangChain" src="https://avatars.githubusercontent.com/u/30931805?s=200&v=4" height="55" />
+  <img alt="Streamlit" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" height="55" />
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" />
+  <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" />
 </p>
 
 ---
 
 <!-- PROJECTS -->
-<h3 align="center">🚀 Featured Projects</h3>
+<h3 align="center">🚀 Featured Project</h3>
 
 <table align="center">
   <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>🚗 IntelliPark</h4>
-      <img src="https://img.icons8.com/color/48/parking--v1.png" alt="parking icon" />
-      <p>Smart parking system using Java & MySQL to detect availability and reduce congestion in real time.</p>
+    <td width="50%" align="center" valign="top">
+      <h4>🩺 Medimind</h4>
+      <img src="https://img.icons8.com/color/96/000000/medical-doctor.png" alt="medimind icon" />
+      <p>
+        AI-powered healthcare chatbot using <strong>Python, Transformers, LangChain, and Streamlit</strong>.<br/>
+        Features:
+        <ul style="list-style-type:none;">
+          <li>💬 Medical Q&A chatbot</li>
+          <li>🖼️ Image-based diagnosis support</li>
+          <li>🎤 Voice input & response</li>
+        </ul>
+      </p>
     </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🔐 Z-Secure</h4>
-<img src="https://cdn-icons-png.flaticon.com/512/747/747376.png" alt="security icon" width="60" height="60" style="background-color: black; padding: 5px; border-radius: 5px;" />
-      <p>Cloud data protection using V-GRT: Verification, Granular Rights & Real-time Tracking.</p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>🌆 CityPulse</h4>
-      <img src="https://img.icons8.com/ios-filled/50/000000/city.png" alt="city icon" />
-      <p>Java Swing-based city portal offering live public service updates with role-based access.</p>
+    <td width="50%" align="center" valign="top">
+      <h4>🌐 AI Projects Portfolio</h4>
+      <img src="https://img.icons8.com/ios-filled/50/000000/ai.png" alt="ai icon" />
+      <p>
+        - LLM-based Q&A Systems<br/>
+        - Transformer-based Text Summarization<br/>
+        - Predictive Analytics using Pandas & NumPy<br/>
+        - Visualization with Matplotlib & Seaborn
+      </p>
     </td>
   </tr>
 </table>
@@ -72,7 +83,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ayushashverma&show_icons=true&count_private=true&theme=radical" width="48%" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushashverma&layout=compact&langs_count=6&theme=radical" width="41%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushashverma&layout=compact&langs_count=8&theme=radical" width="41%" />
 </p>
 
 ---
